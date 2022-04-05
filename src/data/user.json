@@ -1,0 +1,48 @@
+[
+    {
+        "First Name": "R",
+        "Middle Name": "-",
+        "Last Name": "V",
+        "Email": "r.v@sourcefuse.com",
+        "Phone": "987654231",
+        "Role": "superadmin",
+        "Address": "India"
+    },
+    
+    {
+        "First Name": "N",
+        "Middle Name": "-",
+        "Last Name": "I",
+        "Email": "NI@gmail.com",
+        "Phone": "408-1111111",
+        "Role": "admin",
+        "Address": "USA"
+    },
+    {
+        "First Name": "T",
+        "Middle Name": "-",
+        "Last Name": "F",
+        "Email": "t.f@gmail.com",
+        "Phone": "109-1101421",
+        "Role": "admin",
+        "Address": "Australia"
+    },
+    {
+        "First Name": "T",
+        "Middle Name": "-",
+        "Last Name": "H",
+        "Email": "t.h@gmail.com",
+        "Phone": "408-1111111",
+        "Role": "subscriber",
+        "Address": "USA"
+    },
+    {
+        "First Name": "R",
+        "Middle Name": "-",
+        "Last Name": "I",
+        "Email": "r.i@gmail.com",
+        "Phone": "408-1234567",
+        "Role": "subscriber",
+        "Address": "London"
+    }
+]
